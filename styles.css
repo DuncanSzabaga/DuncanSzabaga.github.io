@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(94, 84, 152);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color:darkblue;
+}
+.about {
+    text-align: right;
+    width: 100%;
+    color: yellowgreen;
+}
+
+.skills {
+    color:crimson;
+}
+
+.projects {
+    color:lightgreen;
+}
+
+.contact {
+    color:midnightblue
+}
