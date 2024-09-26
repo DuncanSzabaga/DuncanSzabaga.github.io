@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(94, 84, 152);
+    background-color: rgb(116, 107, 167);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -17,6 +17,8 @@ h1 {
 }
 
 .projects {
+    display:flex;
+    flex-wrap:wrap;
     color:lightgreen;
 }
 
