@@ -25,3 +25,13 @@ h1 {
 .contact {
     color:midnightblue
 }
+
+.project img{
+    width: 300px;
+    height: 100px;
+    overflow: hidden;
+    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    border-width:10px;
+    display: block;
+    margin: auto;
+}
