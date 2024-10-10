@@ -27,11 +27,21 @@ h1 {
 }
 
 .project img{
-    width: 300px;
-    height: 100px;
+    width: 400px;
+    height: 300px;
     overflow: hidden;
     border: 2px solid rgb(126, 14, 201); /* choose a color */
     border-width:10px;
     display: block;
     margin: auto;
 }
+
+a { /* change the appearance of ALL links */
+    text-decoration: none;
+    color: purple;
+    }
+
+.project p { /* change the appearance of paragraph tags inside .project divs */
+    text-align: center;
+    margin: 15px;
+    }
